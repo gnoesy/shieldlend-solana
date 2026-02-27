@@ -108,3 +108,5 @@ Built for Arcium RTG.
 ## 🖥 Dashboard Mock
 
 A simple UI mock is included at: `app/index.html`
+## 🖼 ShieldLend Dashboard Preview
+![ShieldLend Dashboard](shieldlend-dashboard-preview.png)
