@@ -62,7 +62,7 @@ Confidential Layer (Arcium MXE):
 - Liquidation condition checks
 
 Arcium acts as the confidential execution environment.
-
+![ShieldLend Architecture](architecturev3.png)
 ---
 
 ## 🔄 Execution Flow
